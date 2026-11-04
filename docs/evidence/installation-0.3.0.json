@@ -1,0 +1,34 @@
+[
+  {
+    "distribution": "ubuntu",
+    "image": "ubuntu:24.04",
+    "image_id": "sha256:24737cef17f4e22b1977df7d9a05e77c4e28b7da5b8911f8d8ccda136bf3573c",
+    "exit_code": 0,
+    "passed": true,
+    "scope": "dependencies, per-user installation, offscreen Qt startup, uninstall; no USB"
+  },
+  {
+    "distribution": "fedora",
+    "image": "fedora:43",
+    "image_id": "sha256:a651ddf48ea28a06ed4e1e6519f51c9f47e7a5a138722ade87369b8fbb7e5b42",
+    "exit_code": 0,
+    "passed": true,
+    "scope": "dependencies, per-user installation, offscreen Qt startup, uninstall; no USB"
+  },
+  {
+    "distribution": "arch",
+    "image": "archlinux:latest",
+    "image_id": "sha256:52dfbd5afb23a220d5ee92dafcb4c788d96c026ed04179890c23adef4c897fa0",
+    "exit_code": 0,
+    "passed": true,
+    "scope": "dependencies, per-user installation, offscreen Qt startup, uninstall; no USB"
+  },
+  {
+    "distribution": "suse",
+    "image": "opensuse/tumbleweed:latest",
+    "image_id": "sha256:2e73c9a73aed4edfdd8a383608368a7ee6b8de2a2aa262843c89bb6778c2c24d",
+    "exit_code": 0,
+    "passed": true,
+    "scope": "dependencies, per-user installation, offscreen Qt startup, uninstall; no USB"
+  }
+]

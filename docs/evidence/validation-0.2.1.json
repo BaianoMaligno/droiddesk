@@ -1,0 +1,18 @@
+{
+  "package": "org.droiddesk.validation",
+  "checks": [
+    "Install base and split test APKs",
+    "Quick action: copy base and split APKs, then uninstall",
+    "Two APKs backed up and verified by SHA-256",
+    "Reinstall exported copy",
+    "Disable only the test app",
+    "Selected action: remove disabled app, keep data, no backup",
+    "Removal with data retention confirmed by -u"
+  ],
+  "cleanup": true,
+  "device_model": "SM-X520",
+  "android": "16",
+  "tested_at": "2026-10-26",
+  "user_confirmation": "Everything is fine now.",
+  "user_confirmation_note": "English translation; the original wording is retained in the private history archive."
+}

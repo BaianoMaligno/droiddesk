@@ -1,0 +1,18 @@
+{
+  "time": "2026-10-26T21:04:43.323903+00:00",
+  "device": {
+    "model": "SM-X520",
+    "brand": "samsung",
+    "android": "16",
+    "api": "36"
+  },
+  "user": 0,
+  "package": "com.android.egg",
+  "original_enabled_state": 0,
+  "keep_data": true,
+  "original_installed_count": 556,
+  "helper_removal_verified": true,
+  "restoration_verified": true,
+  "tested_path": "direct IPackageManager helper",
+  "shell_root_restriction_reproduced": false
+}
